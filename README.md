@@ -79,8 +79,9 @@ Build a GUI version (optional)
 
 Improve error handling and input validation
 
-Author
-Created by Hussain Ashraf, Naina Awan
+Developed by Hussain Ashraf, Naina Awan
+
 Semester Project – Operating Systems
+
 BSCS Program – 4th Semester
 
